@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "564878676883",
+    "project_id": "attendance-dapp",
+    "storage_bucket": "attendance-dapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564878676883:android:2f0118680232bbaa57ce66",
+        "android_client_info": {
+          "package_name": "com.bytx.attendanceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564878676883-tsmp2k5qd269a5j6rm80oqrc9mev02ke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMbmvf4CfD51TeXkGT8U4P9VunElHeAAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564878676883-tsmp2k5qd269a5j6rm80oqrc9mev02ke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
