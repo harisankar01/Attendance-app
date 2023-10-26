@@ -15,15 +15,12 @@
 *.iws
 .idea/
 
-# The .vscode folder contains launch configuration and tasks you configure in
 # VS Code which you may wish to be included in version control, so this line
 # is commented out by default.
-#.vscode/
 
 pubspec.lock
 **/ios/Flutter/.last_build_id
 .dart_tool/
-.vscode/
 .flutter-plugins
 .flutter-plugins-dependencies
 .packages
@@ -44,8 +41,11 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
-.vscode/launch.json
 ios/Flutter/Release.xcconfig
 ios/Flutter/Debug.xcconfig
 macos/Flutter/Flutter-Debug.xcconfig
 macos/Flutter/Flutter-Release.xcconfig
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
