@@ -60,3 +60,13 @@ The date is stored as a timestamp in firebase.
 
 Also, enable signIn using email in the authentication section of firebase.
 Register your app with the package name `com.bytx.attendanceapp` and place the `google-services.json` file in the `/android/app/` folder.
+
+## Images
+
+![Login page](https://github.com/harisankar01/Attendance-app/assets/90249023/41962a7a-9749-4b6c-a05c-444d3b5b22ad)
+![Home](https://github.com/harisankar01/Attendance-app/assets/90249023/77faefac-5dbf-4c50-a831-4f1853892ed9)
+![Facial Recognition](https://github.com/harisankar01/Attendance-app/assets/90249023/5fc03b28-5c69-4b61-b708-928b2baf9dfa)
+![Home](https://github.com/harisankar01/Attendance-app/assets/90249023/a879417d-9a3d-4a99-9dfb-021be272883b)
+![Location Service](https://github.com/harisankar01/Attendance-app/assets/90249023/4f1ca5f2-9d5a-4dd7-ae4a-27261210637e)
+![Office Check](https://github.com/harisankar01/Attendance-app/assets/90249023/e306c824-4e2a-40b3-aa89-b011b8e74723)
+![Profile](https://github.com/harisankar01/Attendance-app/assets/90249023/7a541424-93ff-4e74-8c3e-590a2c86ab0b)
