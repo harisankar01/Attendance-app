@@ -46,6 +46,10 @@ ios/Flutter/Debug.xcconfig
 macos/Flutter/Flutter-Debug.xcconfig
 macos/Flutter/Flutter-Release.xcconfig
 branch_structure.json
-temp_auto_push.bat
 temp_interactive_push.bat
 .gitignore
+
+# restored: the injected commit stripped these
+.env
+.env.*
+!.env.example
